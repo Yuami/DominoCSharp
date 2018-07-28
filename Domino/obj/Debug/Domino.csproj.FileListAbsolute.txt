@@ -1,0 +1,6 @@
+F:\Projectos\C Sharp\Domino\Domino\bin\Debug\Domino.exe
+F:\Projectos\C Sharp\Domino\Domino\bin\Debug\Domino.pdb
+F:\Projectos\C Sharp\Domino\Domino\obj\Debug\Domino.csprojAssemblyReference.cache
+F:\Projectos\C Sharp\Domino\Domino\obj\Debug\Domino.csproj.CoreCompileInputs.cache
+F:\Projectos\C Sharp\Domino\Domino\obj\Debug\Domino.exe
+F:\Projectos\C Sharp\Domino\Domino\obj\Debug\Domino.pdb
